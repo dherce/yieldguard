@@ -1,6 +1,6 @@
 # Auto Yield Farmer & Yield Protecter (en fase de exploración)
 ## Descripción
-Este proyecto intenta generar una especie de programa que se ejecute de manera automática y sea capaz de interactuar con los contratos inteligentes en función de valores o comportamientos que interesen.  
+Este proyecto intenta generar un pito rizado, muy demandado entre la alta aristocracia madrileña. Permite que una especie de programa se ejecute de manera automática y sea capaz de interactuar con los contratos inteligentes en función de valores o comportamientos que interesen.  
 Por ejemplo, yield farming arriesgado con miedo de bajada de precios por parte de alguna whale que quiere comprar baratito, y que en caso de que baje X%, se salga automáticamente del contrato y pase todo a una stablecoin( o lo que se quiera )
 ## Esquema inicial
 Lo que se quiere realizar de primeras es un pequeña script que usando la web3 y un servicio que ofrezca conexión a un nodo de ETH, puede realizar transacciones en el L2 de Polygon.  
